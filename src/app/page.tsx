@@ -81,11 +81,11 @@ export default function LandingPage() {
       buttonAnimation="none"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-view-happy-woman-with-flowers-home_197531-33087.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-view-happy-woman-with-flowers-home_197531-33087.jpg?_wi=1",
           imageAlt: "Sparkling clean modern kitchen",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sponge-rubber-gloves-cleaning-house_1157-45533.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sponge-rubber-gloves-cleaning-house_1157-45533.jpg?_wi=1",
           imageAlt: "Professional cleaning supplies and a clean surface",
         },
         {
@@ -149,7 +149,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/woman-reading-book-her-bedroom_53876-132375.jpg",
             imageAlt: "Clean and organized bedroom",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/full-view-happy-woman-with-flowers-home_197531-33087.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-view-happy-woman-with-flowers-home_197531-33087.jpg?_wi=2",
           imageAlt: "deep cleaning house interior details",
         },
         {
@@ -163,7 +163,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/blurred-shower_1203-1099.jpg",
             imageAlt: "Clean, sanitized bathroom",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sponge-rubber-gloves-cleaning-house_1157-45533.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-sponge-rubber-gloves-cleaning-house_1157-45533.jpg?_wi=2",
           imageAlt: "deep cleaning house interior details",
         },
       ]}
